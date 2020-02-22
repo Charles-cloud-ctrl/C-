@@ -150,6 +150,9 @@
     <ClCompile Include="ConsoleApplication1.cpp" />
     <ClCompile Include="贪吃蛇.cpp" />
   </ItemGroup>
+  <ItemGroup>
+    <Object Include="..\Snake-cpp-master\贪吃蛇\贪吃蛇.o" />
+  </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
   </ImportGroup>
